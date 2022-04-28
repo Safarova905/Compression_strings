@@ -1,1 +1,1 @@
-# Compression_strings
+# Tz about compression of strings
